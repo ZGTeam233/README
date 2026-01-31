@@ -1,6 +1,6 @@
 ***免责声明***
 
-我不对 *Gitee* 和 *开源中国OSChina* 有任何负面想法
+我不对 [*Gitee*](https://gitee.com) 和 *开源中国OSChina* 有任何负面想法
 
 # README
 十分重要 SOMETHING VERY IMPORTANT
@@ -13,4 +13,4 @@
 
 故***已提交***注销账号申请 
 
-以后只可能在 *GitHub* 发布，或者考虑 *极狐GitLab中国*
+以后在 [*GitHub*](https://github.com/ZGTeam233) 和 [*极狐GitLab*](https://jihulab.com/ZGTeam233) 发布
